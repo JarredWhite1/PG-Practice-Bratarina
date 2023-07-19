@@ -22,23 +22,23 @@ Project consists of performing penetration test on a Linux machine called "Zino"
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Starting Responder: <br/>
-<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Running Inital Nmap Fast Scan against target: <br/>
+<img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapinital.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Reaching out to our Atttacking IP from Windows target machine:  <br/>
-<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Nmap Inital-Finding Open Ports:  <br/>
+<img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmap2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-"Failed to resolve" error on target Windows machine: <br/>
-<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Nmap Advanced Service and OS Scan with Default Scripts: <br/>
+<img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Attack machine captures NTLMv2 hashes!:  <br/>
-<img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Nmap Advanced Scan Open Ports and Services:  <br/>
+<img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Making a file with the hashes in it:  <br/>
+Nm:  <br/>
 <img src="https://github.com/JarredWhite1/LLMNR-Poisioning/blob/main/responder5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
