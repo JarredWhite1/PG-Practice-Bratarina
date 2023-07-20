@@ -36,6 +36,7 @@ Nmap Advanced Scan to drill down and further enumerate Services: <br/>
 <br />
 Nmap Advanced Scan Open Ports and Services:  <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Nm:  <br/>
