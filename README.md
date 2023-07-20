@@ -30,7 +30,7 @@ Nmap Inital-Finding Open Ports for FTP,SSH,NetBIOS,SMB,MYSQL and a port at 8003:
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmap2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Nmap Advanced Service and OS Scan with Default Scripts: <br/>
+Nmap Advanced Scan to drill down and further enumerate Services: <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapAdv1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
