@@ -26,7 +26,7 @@ Running Inital Nmap Fast Scan against target: <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmapinital.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Nmap Inital-Finding Open Ports:  <br/>
+Nmap Inital-Finding Open Ports for FTP,SSH,NetBIOS,SMB,MYSQL and a port at 8003:  <br/>
 <img src="https://github.com/JarredWhite1/PG-Practice-Zino/blob/main/nmap2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
